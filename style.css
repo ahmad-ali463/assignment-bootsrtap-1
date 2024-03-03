@@ -27,3 +27,24 @@ header{
     background-color: black;
     color: white;
 }
+
+.about-section img{
+    filter: grayscale(0.75);
+}
+.btn:hover{
+    background-color: lightgray;
+    color: black;
+    
+}
+.ff{
+    background-color: black;
+    color: white;
+}
+.q{
+    height: 110vh;
+}
+
+.ali{
+  text-align: center;
+
+}
